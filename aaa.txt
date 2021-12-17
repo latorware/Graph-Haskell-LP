@@ -1,0 +1,27 @@
+{-
+
+
+defVprop :: PG -> V
+
+
+defEprop :: 
+
+
+
+defVlabel :: PG -> V -> Lab -> Either String PG
+
+
+
+defElabel :: PG -> E -> Lab -> Either String PG
+
+
+
+showGraph :: PG -> 
+
+
+
+
+
+populate :: String -> String -> String -> String -> PG
+
+-}
